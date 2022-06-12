@@ -6,7 +6,7 @@ To Develop a small bank application by declaring deposit() and withdrawal() as a
 
 ## Algorithm:
 ## Step 1:
-Create an interface.
+Create an Interface.
 
 ## Step 2:
 Create a child class.
